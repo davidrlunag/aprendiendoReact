@@ -1,15 +1,15 @@
 {
-  "title": "A Blog Title",
-  "description": "Starter blog using Forestry CMS with Next.js.",
+  "title": "Blog de Prueba",
+  "description": "Usamos Next.js y los posts se guardan en archivos .md",
   "contact": {
-    "website_url": "https://forestry.io",
+    "website_url": "https://dlcode.me",
     "made_with_url": "https://gatsbyjs.com",
-    "email": "info@forestry.io",
-    "twitter_handle": "@forestryio",
-    "twitter_url": "https://twitter.com/forestryio",
-    "github_handle": "forestryio",
-    "github_url": "https://github.com/forestryio"
+    "email": "contact@dlcode.me",
+    "twitter_handle": "@code_dl",
+    "twitter_url": "https://twitter.com/code_dl",
+    "github_handle": "code-dl",
+    "github_url": "https://github.com/code-dl"
   },
   "primary_color": "#AEC4BE",
-  "repository_url": "https://github.com/kendallstrautman/starter-blog-next"
+  "repository_url": "https://github.com/code-dl"
 }
