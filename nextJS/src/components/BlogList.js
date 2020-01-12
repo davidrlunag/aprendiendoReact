@@ -121,6 +121,7 @@ const BlogList = (props) => {
               margin-bottom: 1.2rem;
             }
           }
+
         `}
       </style>
     </>

@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-blog-starter",
+  "name": "brevifolia-nextjs",
   "private": true,
   "description": "A simple starter to get up and developing quickly with Next.js",
   "license": "MIT",
@@ -14,9 +14,12 @@
     "deploy": "yarn build && yarn export"
   },
   "dependencies": {
-    "next": "^9.1.7",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "gray-matter": "^4.0.2",
+    "next": "^9.0.2",
+    "node-glob": "^1.2.0",
+    "raw-loader": "^3.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-markdown": "^4.1.0",
     "webpack": "^4.37.0"
   },
@@ -24,10 +27,10 @@
     "prettier": "^1.18.2"
   },
   "keywords": [
-    "nextjs"
+    "next"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kendallstrautman/nextjs-blog-starter"
+    "url": "https://github.com/kendallstrautman/brevifolia-nextjs"
   }
 }
